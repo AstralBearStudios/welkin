@@ -1,0 +1,26 @@
+#+title: Welkin Book
+#+author: Oscar Bender-Stone
+#+date: <2023-09-17 Sun>
+#+startup: nofold
+
+️*⚠ Warning: This repository is a WIP. This book is in its early stages and does not have substantial text. Please wait to submit any issues, and stay tuned for updates.*
+
+This repository stores /Welkin: An Information Language/, also known as the Welkin Book. It provides a philosophical basis for the language, as well as a formal specification for several key components.
+
+Welkin itself is based on a fundamental theory of epistemology: Continuum Foci Logic and Theory (CFLT). In addition to the overall perceptions of Western and Eastern thinkers, this theory is heavily based on the philosophies of Charles Peirce and Gilles Deleuze.
+
+Following these foundations, the book describes Welkin, a customizable way to store information from any subject matter. We argue that Welkin can encode , and it is a Turing-complete language It is possible to manually work with the resulting .welkin files, but for ease, long-term use, and large scale projects, there is a program to manage these files. The current implementation [[https://github/astral-bear/pywelkin][PyWelkin (WIP)]].
+
+* Installation
+You can read single files in this repo and find what you need. Alternatively, you can view either welkin-book.org or welkin-book.pdf for one large file.
+
+* Copyright and License
+
+The Welkin Book (c) 2023 by Oscar Bender-Stone
+ 
+The Welkin Book is licensed under a [[http://creativecommons.org/licenses/by/4.0/][Creative Commons Attribution 4.0 International License]].
+
+[[http://creativecommons.org/licenses/by/3.0/deed][file:http://i.creativecommons.org/l/by/3.0/80x15.png]]
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.

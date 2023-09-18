@@ -1,0 +1,48 @@
+#+title: Welkin
+#+author: Oscar Bender-Stone
+#+date: <2023-09-10 Sun>
+
+️*⚠ Warning: This repository is a WIP. This project is in its early stages and does not have any code. Please wait to submit any issues, and stay tuned for updates.*
+
+*Logo and Timelapse: TBD*
+
+Welcome to Welkin, an all-purpose knowledge manager (AIM)! You can write about /any/ and /all/ pieces of information you wish to keep.
+- Writing a screenplay? Store all of your key events and characters into their dedicated nodes, interweaving them as you develop the plot.
+- Have a bunch of scarmbled notes from a class? Put your key ideas into nodes and interconnect them, allowing you to easily traverse what you jotted down, and make it easy to keep adding on.
+- Working on a programming project? Store each key function in its own node, full with documentation and overall structure. Keep your implementation inside the node and better understand how every component works.
+The sky is the limit!
+
+* What does "Information" Mean?
+I'm using it as a general term, broadly meaning "anything related to your perception or thought". My definition comes from the [[https://etymonline.com/word/information][etymology of information]] (with added emphasis):
+#+begin_quote
+from Latin informationem (nominative informatio) "outline, concept, idea," noun of action from past participle stem of informare "to train, instruct, educate; *shape, give form to*"
+#+end_quote
+The way you perceive or think about the world creates unique /forms/, which is what I am calling information.
+
+
+Note that information doesn't need to be true. For example, it could be ficitious (in a book or screenplay). It definitely doesn't need to be /knowledge/. That is a rabbit hole in of itself, and I will not get to that here. (There will be an extension that handles this need exactly: TBA).
+
+Needless to say, it's nice to have a broad definition. This means you can, and should, write *everything* down! In my opinion, /every piece of information formed is valuable in of itself./.
+
+But, I hear you asking, how do I manage all of these notes? That's where some of the core features of Welkin come in: not only can you store /everything/, you can easily navigate it!
+
+* But What IS Welkin?
+
+That answer is a bit more complicaated, and is philosophically involed. My inspiration comes from both Western and Eastern thought. In fact, Welkin is based on a new theory I created: Continuum Foci Logic and Theory (CFLT). There is an [[https://github.com/astral-bear/welkin/theory][official book (WIP)]] fully describing this theory, as well as a formal specification for the Welkin language. In the meantime, you can look at my blog to get a basic idea: [[https://wildperpetualcuriosities.wordpress.com][Wild Perpetual Curiosities (WPC)]].
+
+Welkin stores information in meta-graphs, which means /anything/ can be a node, including edges or other graphs!
+
+* (Planned) Features
+- Zoom in/out of ideas
+- Customize the way you perceive them
+- Long Term: Accessibility
+
+* Development: TBA
+
+For cross-platform usage and ease of usage, the first official implementation of this project is in python, called [[https://github.com/astral-bear/pywelkin][PyWelkin]].
+
+There will be dedicated files for the roadmaps, updates, etc. Eventually, these will be written in .welkin files, serving as a unified way to
+
+*Lead Developer:* Oscar Bender-Stone
+
+*Please email oscarbenderstone@gmail.com if you would like to be a contributor. I have yet to make the guidelines, but I am open to any recommendations as I am writing them.*
