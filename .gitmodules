@@ -1,3 +1,6 @@
 [submodule "pywelkin"]
 	path = pywelkin
 	url = https://github.com/Astral-Bear-Studios/pywelkin
+[submodule "welkin-book"]
+	path = welkin-book
+	url = ./welkin-book
