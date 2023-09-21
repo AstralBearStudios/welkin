@@ -1,7 +1,7 @@
 #+title: Welkin
 #+date: <2023-09-10 Sun>
 
-️*⚠ Warning: This repository is a WIP. This project is in its early stages and does not have any code. Please wait to submit any issues, and stay tuned for updates.*
+️⚠ *Warning: This repository is a WIP. This project is in its early stages and does not have any code. Please wait to submit any issues, and stay tuned for updates.*
 
 *Logo and Timelapse: TBD*
 
@@ -27,7 +27,7 @@ But, I hear you asking, how do I manage all of these notes? That's where some of
 
 * But What IS Welkin?
 
-That answer is a bit more complicaated, and is philosophically involed. My inspiration comes from both Western and Eastern thought. In fact, Welkin is based on a new theory I created: Continuum Foci Logic and Theory (CFLT). There is an [[https://github.com/astral-bear/welkin/theory][official book (WIP)]] fully describing this theory, as well as a formal specification for the Welkin language. In the meantime, you can look at my blog to get a basic idea: [[https://wildperpetualcuriosities.wordpress.com][Wild Perpetual Curiosities (WPC)]].
+That answer is a bit more complicated, and is philosophically involed. My inspiration comes from both Western and Eastern thought. In fact, Welkin is based on a new theory I created: Continuum Foci Logic and Theory (CFLT). There is an [[https://github.com/Astral-Bear-Studios/welkin-book][official book (WIP)]] fully describing this theory, as well as a formal specification for the Welkin language. In the meantime, you can look at my blog to get a basic idea: [[https://wildperpetualcuriosities.wordpress.com][Wild Perpetual Curiosities (WPC)]].
 
 Welkin stores information in meta-graphs, which means /anything/ can be a node, including edges or other graphs!
 
