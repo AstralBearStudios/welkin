@@ -1,5 +1,4 @@
 #+title: Welkin
-#+author: Oscar Bender-Stone
 #+date: <2023-09-10 Sun>
 
 ️*⚠ Warning: This repository is a WIP. This project is in its early stages and does not have any code. Please wait to submit any issues, and stay tuned for updates.*
