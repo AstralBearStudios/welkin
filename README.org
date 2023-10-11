@@ -1,18 +1,16 @@
-#+title: Welkin
-#+date: <2023-09-10 Sun>
+️⚠ ***Warning: This repository is a WIP. This project is in its early stages and does not have any code. Please wait to submit any issues, and stay tuned for updates.**
 
-️⚠ *Warning: This repository is a WIP. This project is in its early stages and does not have any code. Please wait to submit any issues, and stay tuned for updates.*
-
-*Logo and Timelapse: TBD*
+**Logo and Timelapse: TBD**
 
 Welcome to Welkin, an all-purpose knowledge manager (AIM)! You can write about /any/ and /all/ pieces of information you wish to keep.
+
 - Writing a screenplay? Store all of your key events and characters into their dedicated nodes, interweaving them as you develop the plot.
 - Have a bunch of scarmbled notes from a class? Put your key ideas into nodes and interconnect them, allowing you to easily traverse what you jotted down, and make it easy to keep adding on.
 - Working on a programming project? Store each key function in its own node, full with documentation and overall structure. Keep your implementation inside the node and better understand how every component works.
 The sky is the limit!
 
 * What does "Information" Mean?
-I'm using it as a general term, broadly meaning "anything related to your perception or thought". My definition comes from the [[https://etymonline.com/word/information][etymology of information]] (with added emphasis):
+I'm using it as a general term, broadly meaning "anything related to your perception or thought". My definition comes from the [https://etymonline.com/word/information](etymology of information] (with added emphasis):
 #+begin_quote
 from Latin informationem (nominative informatio) "outline, concept, idea," noun of action from past participle stem of informare "to train, instruct, educate; *shape, give form to*"
 #+end_quote
@@ -40,7 +38,7 @@ Welkin stores information in meta-graphs, which means /anything/ can be a node, 
 
 For cross-platform usage and ease of usage, the first official implementation of this project is in python, called [[https://github.com/astral-bear/pywelkin][PyWelkin]].
 
-There will be dedicated files for the roadmaps, updates, etc. Eventually, these will be written in .welkin files, serving as a unified way to
+There will be dedicated files for the roadmaps, updates, etc. Eventually, these will be written in .welkin files, serving as a unified way to communicate ideas for the project.
 
 *Lead Developer:* Oscar Bender-Stone
 
