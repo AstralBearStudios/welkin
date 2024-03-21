@@ -4,16 +4,11 @@
 
 ⚠ ***Warning: This repository is a WIP. This project is in its early stages and does not have any code. Please wait to submit any issues, and stay tuned for updates.***
 
-***Major Update, February 27, 2024*** I have realized that the Standard and initial implementation aimed to do too much and had scope creep. I realized that welkin does not need to do everything in one go and emphasize how it is a *universal information format.* This means two big things for the project:
-
-- The Standard will prioritize on one task: *formally specify* the Welkin language:
-    - Syntax: Has a precise LALR grammar, with details on every terminal and rules.   
-    - Semantics: Defines a WIG (Welkin Information Graph) and its notion of equivalence.
-Every possible detail will be considered, in order to avoid ambiguities in other formats (including JSON). In order to simplify things and avoid confusion, there will no longer be any variants: there will be *exactly one grammar* and semantics to refer to. Because Welkin is contained, *the Welkin interpreter will not be specified.* Instead, *the interpreter's specification will be written entirely in Welkin.*
-- The initial implementation, pywelkin, will only prioritize on the core library and cli. *This project will no longer make GUI applications.* In the near future, there will be support for existing text editors and programs (TBA). This means the project can leverage current editors *instead* of developing one first. I am making GUI applications in the future, but those will be (you guessed it) *specified in Welkin.*
-    - Some of the tooling may change as well. I did switch from poetry to pdm (due to Linux based issues), but I may switch back. In any case, *dependencies should be as minimal and portable as possible.* More features will be supported through plugins in a separate repository (TBA).
-
-***In short,*** this repository will now focus on the Welkin language. Formal tools, utilities, and more will be the focus of new projects (coming soon!).
+*** Update, 2024-21-3: two major structural changes. 
+- Updates will be put into a changelog for easier access. Please see CHANGELOG.md for future reference. Dates will be written in ISO notation yyyy-mm-dd to minimize confusion. If a new format is chosen in the future, it will be put into this document first.
+- Due to their complexity, there will no longer be git submodules for welkin-book and pywelkin. Instead, this README will only include links. Interested contributors can clone which projects they would like to work on.
+This will be the last update put in this README.
+***
 
 ***Logo and Timelapse: TBD***
 
@@ -24,6 +19,11 @@ Welcome to Welkin, an all-purpose knowledge manager (AIM)! You can write about *
 -   Working on a programming project? Store each key function in its own node, full with documentation and overall structure. Keep your implementation inside the node and better understand how every component works.
 
 But this list is not exhaustive; the sky is the limit!
+
+Here is the list
+- (The Welkin Book)
+- 
+- Official, verified implementation: TBD
 
 # What does "Information" Mean?
 
@@ -64,7 +64,7 @@ Welkin, as a program, does need to be standardized for *everyone* to use. (Other
 
 # Development: TBA
 
-For cross-platform usage and ease of usage, the first official implementation of this project is in python, called [PyWelkin](https://github.com/astral-bear/pywelkin).
+For cross-platform availability, the first official implementation of this project is in python, called [PyWelkin](https://github.com/astral-bear/pywelkin).
 
 There will be dedicated files for the roadmaps, updates, etc. Eventually, these will be written in .welkin files, serving as a unified way to communicate ideas for the project (and *all* related projects).
 
