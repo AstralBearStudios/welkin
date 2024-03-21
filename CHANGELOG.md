@@ -21,7 +21,7 @@ This will be the last update put in this README.
 
 Major update to entire project.
 
-I have realized that the Standard and initial implementation aimed to do too much and had scope creep. I realized that welkin does not need to do everything in one go and emphasize how it is a *universal information format.* This means two big things for the project.
+I have realized that the Standard and initial implementation aimed to do too much and had scope creep. I realized that Welkin does not need to do everything in one go and emphasize how it is a *universal information format.* This means two big things for the project.
 
 ## Changed
 - The Standard will prioritize on one task: *formally specify* the Welkin language:

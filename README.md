@@ -20,14 +20,13 @@ Welcome to Welkin, an all-purpose knowledge manager (AIM)! You can write about *
 
 But this list is not exhaustive; the sky is the limit!
 
-Here is the list
-- (The Welkin Book)
-- 
-- Official, verified implementation: TBD
+# Official Subprojects
+- (The Welkin Book)[https://github.com/AstralBearStudios/welkin-book]
+- (PyWelkin)[https://github.com/AstralBearStudios/pywelkin]
 
 # What does "Information" Mean?
 
-I'm using it as a general term, broadly meaning "anything related to your perception or thought". My definition comes from the [<https://etymonline.com/word/information>](etymology of information] (with added emphasis):
+I'm using it as a general term, broadly meaning "anything related to your perception or thought". My definition comes from the [etymology of information](https://etymonline.com/word/information) (with added emphasis):
 
 > from Latin informationem (nominative informatio) "outline, concept, idea" noun of action from past participle stem of informare "to train, instruct, educate; **shape, give form to**";
 
