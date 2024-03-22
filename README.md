@@ -4,11 +4,10 @@
 
 ⚠ ***Warning: This repository is a WIP. This project is in its early stages and does not have any code. Please wait to submit any issues, and stay tuned for updates.***
 
-*** Update, 2024-21-3: two major structural changes. 
+**Update, 2024-21-3: two major structural changes. 
 - Updates will be put into a changelog for easier access. Please see CHANGELOG.md for future reference. Dates will be written in ISO notation yyyy-mm-dd to minimize confusion. If a new format is chosen in the future, it will be put into this document first.
 - Due to their complexity, there will no longer be git submodules for welkin-book and pywelkin. Instead, this README will only include links. Interested contributors can clone which projects they would like to work on.
-This will be the last update put in this README.
-***
+This will be the last update put in this README.**
 
 ***Logo and Timelapse: TBD***
 
